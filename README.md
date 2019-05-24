@@ -2,6 +2,8 @@
 
 ![patch editor example](./demo-assets/patches.png)
 
+![LUTs GOOOOOOOD](./demo-assets/luts-good.gif)
+
 ## Downloads
 
 [Download the demo project](https://github.com/positlabs/spark-lut-patch/archive/master.zip)
