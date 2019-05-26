@@ -20,9 +20,9 @@ Texture compression settings matter. If the output looks bad, try overriding the
 
 All of Photoshop's built-in 3dl files, converted to pngs.
 
-base_post_effect_lookup_table - edit this to create your own LUTs
+neutral - edit this to create your own LUTs
 
-<img src="./textures/base_post_effect_lookup_table.png" width="200" />
+<img src="./textures/neutral.png" width="200" />
 
 futuristic_bleak
 
