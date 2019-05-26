@@ -1,10 +1,10 @@
 # spark-lut-patch
 
 
-|     |      |     |
-| --- | :--: | --- |
-| |![patch editor example](./demo-assets/patches.png)| |
-| | <img src="./demo-assets/luts-good.gif" height="240"> | |
+|      |
+| :--: |
+|![patch editor example](./demo-assets/patches.png)|
+| <img src="./demo-assets/luts-good.gif" height="240"> |
 
 ## Downloads
 
