@@ -10,6 +10,8 @@
 
 View patch file [ColorLUT.arp](https://raw.githubusercontent.com/positlabs/spark-lut-patch/master/patches/ColorLUT.arp) (you can save this and import it into your project)
 
+[Download the PSD](./luts.psd) edit this file to create your own custom LUTs.
+
 ## NOTE
 
 Texture compression settings matter. If the output looks bad, try overriding the texture compression settings for the LUTs.
