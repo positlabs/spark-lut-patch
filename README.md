@@ -51,4 +51,8 @@ All of Photoshop's built-in 3dl files, converted to pngs. Also some free LUTs fr
 
 ## Effects Gallery
 
-If you use the patch in your effect, I'll feature it here. Just send a tryit link, icon, title, and description!
+*If you use the patch in your effect, I'll feature it here. Just send a tryit link, icon, title, and description!*
+
+[Tropical Paradise](https://www.instagram.com/a/r/?effect_id=347715922614800)
+
+[SQUINTING SIMULATOR 5000](www.facebook.com/fbcameraeffects/tryit/2318357045084194/)
