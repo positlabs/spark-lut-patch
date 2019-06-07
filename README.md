@@ -41,8 +41,8 @@ All of Photoshop's built-in 3dl files, converted to pngs. Also some free LUTs fr
 | <img src="./textures/night_from_day.png" width="200" /> | <img src="./textures/fuji_f125_kodak_2393.png" width="200" /> | <img src="./textures/teal_orange_plus_contrast.png" width="200" /> |
 | fuji_f125_kodak_2395 | tension_green | fuji_reala_500d_kodak_2393 |
 |<img src="./textures/fuji_f125_kodak_2395.png" width="200" /> | <img src="./textures/tension_green.png" width="200" /> | <img src="./textures/fuji_reala_500d_kodak_2393.png" width="200" /> |
-| solarized | hackmanite | herderite |
-| <img src="./textures/solarized.png" width="200" /> | <img src="./textures/hackmanite.png" width="200" /> | <img src="./textures/herderite.png" width="200" /> |
+| solarize | hackmanite | herderite |
+| <img src="./textures/solarize.png" width="200" /> | <img src="./textures/hackmanite.png" width="200" /> | <img src="./textures/herderite.png" width="200" /> |
 | heulandite | hiddenite | hilutite |
 | <img src="./textures/heulandite.png" width="200" /> | <img src="./textures/hiddenite.png" width="200" /> | <img src="./textures/hilutite.png" width="200" /> |
 | howlite | hypersthene | infra-false-color |
