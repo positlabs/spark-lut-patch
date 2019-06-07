@@ -45,8 +45,8 @@ All of Photoshop's built-in 3dl files, converted to pngs. Also some free LUTs fr
 | <img src="./textures/solarized.png" width="200" /> | <img src="./textures/hackmanite.png" width="200" /> | <img src="./textures/herderite.png" width="200" /> |
 | heulandite | hiddenite | hilutite |
 | <img src="./textures/heulandite.png" width="200" /> | <img src="./textures/hiddenite.png" width="200" /> | <img src="./textures/hilutite.png" width="200" /> |
-| howlite | hypersthene |  |
-| <img src="./textures/howlite.png" width="200" /> | <img src="./textures/hypersthene.png" width="200" /> |  |
+| howlite | hypersthene | infra-false-color |
+| <img src="./textures/howlite.png" width="200" /> | <img src="./textures/hypersthene.png" width="200" /> | <img src="./textures/infra-false-color.png" width="200" /> |
 
 
 ## Effects Gallery
