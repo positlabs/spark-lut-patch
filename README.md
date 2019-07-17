@@ -1,5 +1,7 @@
 # spark-lut-patch
 
+[Tutorial on YouTube](https://www.youtube.com/watch?v=lxF-ecbkbr4)
+
 |      |
 | :--: |
 |![patch editor example](./demo-assets/patches.png)|
