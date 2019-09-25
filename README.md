@@ -1,5 +1,15 @@
 # spark-lut-patch
 
+⚠️ATTENTION ⚠️
+
+⚠️THERE ARE 3 RULES ⚠️
+
+⚠️1. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
+
+⚠️2. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
+
+⚠️3. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
+
 [Tutorial on YouTube](https://www.youtube.com/watch?v=lxF-ecbkbr4)
 
 |      |
