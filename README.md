@@ -1,4 +1,4 @@
-# spark-lut-patch
+# Spark LUT patch
 
 ⚠️IMPORTANT ⚠️
 
@@ -6,6 +6,8 @@
 
 
 [Tutorial on YouTube](https://www.youtube.com/watch?v=lxF-ecbkbr4)
+
+[![Tutorial on YouTube](./demo-assets/tutorial.jpg)](https://www.youtube.com/watch?v=lxF-ecbkbr4)
 
 |      |
 | :--: |
@@ -26,7 +28,11 @@ Thanks to [Mateusz Ziemann](https://www.facebook.com/infectedwirus) for huge spe
 
 ## NOTE
 
-Texture compression settings matter. If the output looks bad, try overriding the texture compression settings for the LUTs.
+Texture compression settings matter. ALWAYS disable compression on the LUT texture settings. Some people reported that setting filtering to "none" also helped.
+
+![](./demo-assets/compression.png)
+
+![](./demo-assets/filtering.png)
 
 ## Included LUTs
 
