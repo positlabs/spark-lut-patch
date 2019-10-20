@@ -1,14 +1,9 @@
 # spark-lut-patch
 
-⚠️ATTENTION ⚠️
+⚠️IMPORTANT ⚠️
 
-⚠️THERE ARE 3 RULES ⚠️
+⚠️DISABLE COMPRESSION ON LUT TEXTURES ⚠️
 
-⚠️1. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
-
-⚠️2. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
-
-⚠️3. DISABLE COMPRESSION ON LUT TEXTURES ⚠️
 
 [Tutorial on YouTube](https://www.youtube.com/watch?v=lxF-ecbkbr4)
 
@@ -59,12 +54,3 @@ All of Photoshop's built-in 3dl files, converted to pngs. Also some free LUTs fr
 | <img src="./textures/heulandite.png" width="200" /> | <img src="./textures/hiddenite.png" width="200" /> | <img src="./textures/hilutite.png" width="200" /> |
 | howlite | hypersthene | infra-false-color |
 | <img src="./textures/howlite.png" width="200" /> | <img src="./textures/hypersthene.png" width="200" /> | <img src="./textures/infra-false-color.png" width="200" /> |
-
-
-## Effects Gallery
-
-*If you use the patch in your effect, I'll feature it here. Just send a tryit link, icon, title, and description!*
-
-[Tropical Paradise](https://www.instagram.com/a/r/?effect_id=347715922614800)
-
-[SQUINTING SIMULATOR 5000](www.facebook.com/fbcameraeffects/tryit/2318357045084194/)
