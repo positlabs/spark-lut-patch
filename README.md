@@ -4,7 +4,6 @@
 
 ⚠️DISABLE COMPRESSION ON LUT TEXTURES ⚠️
 
-
 [Tutorial on YouTube](https://www.youtube.com/watch?v=lxF-ecbkbr4)
 
 [![Tutorial on YouTube](./demo-assets/tutorial.jpg)](https://www.youtube.com/watch?v=lxF-ecbkbr4)
